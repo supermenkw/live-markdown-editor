@@ -1,0 +1,41 @@
+body {
+  font-family: "Arimo", sans-serif; }
+
+hr {
+  border-color: grey;
+  margin-bottom: 10px; }
+
+textarea {
+  resize: none; }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.md-input {
+  background-color: #223e4e;
+  border-radius: 4px;
+  color: white;
+  font-family: "Roboto Mono", monospace;
+  font-size: 12px;
+  padding: 10px;
+  width: 100%;
+  height: 400px; }
+  @media (min-width: 992px) {
+    .md-input {
+      height: 600px; } }
+
+.well {
+  padding: 10px;
+  width: 100%;
+  height: 400px;
+  overflow: auto; }
+  @media (min-width: 992px) {
+    .well {
+      height: 600px; } }
+
+/*# sourceMappingURL=style.css.map */
